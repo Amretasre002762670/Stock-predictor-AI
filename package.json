@@ -1,0 +1,23 @@
+{
+  "name": "stock-suggester-application",
+  "version": "1.0.0",
+  "description": "Stock suggester app using Open AI and Polygon.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amretasre002762670/Stock-predictor-AI.git"
+  },
+  "author": "Amretasre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amretasre002762670/Stock-predictor-AI/issues"
+  },
+  "homepage": "https://github.com/Amretasre002762670/Stock-predictor-AI#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.77.3"
+  }
+}
